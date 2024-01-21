@@ -59,6 +59,7 @@ python main.py exemplo.pdf all
 
 ## Estrutura do Projeto
 
+```bash
 pdf-txt-converter/
 │
 ├── docs/
@@ -82,3 +83,4 @@ pdf-txt-converter/
 ├── requirements.txt      # Dependências do projeto
 ├── venv/                 # Ambiente virtual
 └── .gitignore            # Arquivo para ignorar certos arquivos no git
+```
