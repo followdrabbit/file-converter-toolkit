@@ -1,0 +1,5 @@
+pdfplumber
+PyYAML
+python-docx
+openpyxl
+virtualenv
